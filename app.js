@@ -22,7 +22,7 @@
     calendarUrl: null,
 
     // Shown in the contact block and used by the concierge hand-off.
-    contactEmail: null,             // e.g. 'hello@friendsofbrands.com'
+    contactEmail: 'sales@decentimagemedia.com',
     phone:        '+1 (334) 917-1841',
     hours:        null              // e.g. 'Mon–Fri 9–6 ET'
   };
